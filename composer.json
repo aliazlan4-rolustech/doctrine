@@ -1,0 +1,7 @@
+{
+    "name": "azlan/doctorine",
+    "description": "test doctrine",
+    "require": {
+        "doctrine/dbal": "^2.5"
+    }
+}
